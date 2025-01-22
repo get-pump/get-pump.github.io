@@ -8,7 +8,14 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.8.1**
+# **Version 1.9.2**
+- Added a copy button to Live Activities
+- Minor settings screen design improvement
+- Improvements to performance, accessibility, and visual alignment
+
+<br>
+
+## **Version 1.8.1**
 - Minor bug fixes and optimisations
 
 <br>
