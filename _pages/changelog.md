@@ -8,7 +8,14 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.9.2**
+# **Version 1.10.2**
+- Workouts are now also saved to Apple Health
+- Added dark and tinted app icons
+- Tweaked Home Screen buttons visual alignment
+
+<br>
+
+## **Version 1.9.2**
 - Added a copy button to Live Activities
 - Minor settings screen design improvement
 - Improvements to performance, accessibility, and visual alignment

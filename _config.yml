@@ -3,7 +3,7 @@ page_title                                : Pump                                
 
 # App Info
 ios_app_id                                : 6444663241                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : uk                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_country                           : GB                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -37,28 +37,40 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Track your workouts
-    description                           : Use preloaded and custom exercises to log your workouts
+    description                           : Log your workouts using preloaded and custom exercises.
     fontawesome_icon_name                 : dumbbell
 
   - title                                 : Beat your targets
-    description                           : Easily compare to what you did in previous workouts
+    description                           : Compare your performance to previous workouts with ease.
     fontawesome_icon_name                 : bullseye
 
   - title                                 : Maximise your progress
-    description                           : The traffic light system ensures you are progressively overloading and making gains
+    description                           : Use the traffic light system to ensure progressive overload and consistent gains.
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Save your routines
-    description                           : Use preloaded and create custom routines
+    description                           : Create and store custom workout routines or use preloaded ones.
     fontawesome_icon_name                 : list
 
   - title                                 : Share your workouts
-    description                           : Share great workouts with your friends
+    description                           : Easily share your best workouts with friends.
     fontawesome_icon_name                 : share
 
   - title                                 : Time your rests
-    description                           : Use the built in timer to track your rests between lifts
+    description                           : Track rest periods with the built-in timer.
     fontawesome_icon_name                 : clock
+
+  - title                                 : Integrate with Apple Health
+    description                           : Sync your workouts seamlessly with Apple Health.
+    fontawesome_icon_name                 : heart
+
+  - title                                 : Engage with Live Activities
+    description                           : Log workouts in real time with Live Activities.
+    fontawesome_icon_name                 : tasks
+
+  - title                                 : Accessibility-friendly design
+    description                           : Built with accessibility in mind for a smoother experience for everyone.
+    fontawesome_icon_name                 : universal-access
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description

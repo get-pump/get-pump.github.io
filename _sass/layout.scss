@@ -1,5 +1,5 @@
 .imageWrapper {					// Sets the background image in the header area
-	height: 714px;
+	height: 770px;
 	background: 
 		linear-gradient(
 		rgba($image-overlay-color, $image-overlay-transparency), 
@@ -334,7 +334,8 @@ nav > ul li a:active {
 } 
 
 .downloadButtonsContainer {
-	display: inline-block;
+	display: flex;
+	gap: 15px;
 	margin-top: 42px;
 	filter: $drop-shadow;
 }
@@ -342,6 +343,7 @@ nav > ul li a:active {
 @media only screen and (max-width: 992px) {
 
 	.downloadButtonsContainer {
+	    flex-direction: column;
 		text-align: center;
 	}
 	
@@ -374,7 +376,9 @@ nav > ul li a:active {
 	height: 75px;
 }
 
-
+.appleHealth {
+    height: 75px;
+}
 
 // iPhone Device Preview
 
