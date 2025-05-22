@@ -17,7 +17,7 @@ include_in_header: true
 ## **Version 1.10.2**
 - Workouts are now also saved to Apple Health
 - Added dark and tinted app icons
-- Tweaked Home Screen buttons visual alignment
+- Tweaked home screen buttons visual alignment
 
 <br>
 
