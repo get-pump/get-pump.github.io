@@ -8,7 +8,13 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.10.2**
+# **Version 1.11.2**
+- Added exercise information screen
+- Various bug fixes and minor performance improvements
+
+<br>
+
+## **Version 1.10.2**
 - Workouts are now also saved to Apple Health
 - Added dark and tinted app icons
 - Tweaked Home Screen buttons visual alignment
