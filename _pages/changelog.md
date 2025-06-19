@@ -8,7 +8,12 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.11.2**
+# **Version 1.12.1**
+- Minor bug fixes
+
+<br>
+
+## **Version 1.11.2**
 - Added exercise information screen
 - Various bug fixes and minor performance improvements
 
