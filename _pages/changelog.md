@@ -8,7 +8,12 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.12.1**
+# **Version 1.13.1**
+- Minor bug fixes
+
+<br>
+
+## **Version 1.12.1**
 - Minor bug fixes
 
 <br>
