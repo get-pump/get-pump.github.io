@@ -8,7 +8,16 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.14.3**
+# **Version 1.15.3**
+- Visual improvements, including adoption of Liquid Glass
+- Minor app icon updates
+- Settings screen restructure
+- Swipe and menu action enhancements
+- Minor bug fixes and optimisations
+
+<br>
+
+## **Version 1.14.3**
 - Visual and structural UI improvements
 
 <br>
