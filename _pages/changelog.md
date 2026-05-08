@@ -8,7 +8,12 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.15.4**
+# **Version 1.16.1**
+- Improvements for non-English locales
+
+<br>
+
+## **Version 1.15.4**
 - Visual improvements, including adoption of Liquid Glass
 - Minor app icon updates
 - Settings screen restructure
