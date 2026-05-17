@@ -8,7 +8,12 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.16.1**
+# **Version 1.17.1**
+- - Minor bug fixes
+
+<br>
+
+## **Version 1.16.1**
 - Improvements for non-English locales
 
 <br>
