@@ -8,7 +8,13 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.18.1**
+# **Version 1.19.3**
+- Added exercise history screen
+- Minor bug fixes and visual improvements
+
+<br>
+
+## **Version 1.18.1**
 - Minor bug fixes
 
 <br>
