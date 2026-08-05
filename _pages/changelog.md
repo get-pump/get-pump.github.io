@@ -8,7 +8,12 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.19.3**
+# **Version 1.20.1**
+- Enhancing Apple Health integration
+
+<br>
+
+## **Version 1.19.3**
 - Added exercise history screen
 - Minor bug fixes and visual improvements
 
