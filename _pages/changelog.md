@@ -8,7 +8,12 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.20.1**
+# **Version 1.21.1**
+- Compatibility improvements for iOS 27
+
+<br>
+
+## **Version 1.20.1**
 - Enhancing Apple Health integration
 
 <br>
