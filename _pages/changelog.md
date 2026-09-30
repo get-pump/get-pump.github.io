@@ -8,7 +8,14 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.21.1**
+# **Version 1.22.2**
+- Added progression mode setting
+- Tweaked colour palette for consistency and accessibility
+- Live Activity bug fix and minor tweak
+
+<br>
+
+## **Version 1.21.1**
 - Compatibility improvements for iOS 27
 
 <br>
