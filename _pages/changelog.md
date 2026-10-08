@@ -8,7 +8,7 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.23.2**
+# **Version 1.23.3**
 - Added landscape mode support
 - Compatibility improvements for iPhone Duo
 - Minor bug fixes and optimisations
