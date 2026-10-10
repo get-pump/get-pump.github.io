@@ -8,7 +8,14 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.22.2**
+# **Version 1.23.3**
+- Added landscape mode support
+- Compatibility improvements for iPhone Duo
+- Minor bug fixes and optimisations
+
+<br>
+
+## **Version 1.22.2**
 - Added progression mode setting
 - Tweaked colour palette for consistency and accessibility
 - Live Activity bug fix and minor tweak
