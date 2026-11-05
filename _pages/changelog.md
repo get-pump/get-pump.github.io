@@ -8,7 +8,14 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.23.3**
+# **Version 1.24.3**
+- Adding support for supersets
+- Exercise history screen enhancements
+- Minor bug fixes and visual improvements
+
+<br>
+
+## **Version 1.23.3**
 - Added landscape mode support
 - Compatibility improvements for iPhone Duo
 - Minor bug fixes and optimisations
