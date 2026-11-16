@@ -8,7 +8,13 @@ include_in_header: true
 
 ### `Latest`
 
-# **Version 1.24.3**
+# **Version 1.25.2**
+- Added search to the exercise menu
+- Minor bug fixes and optimisations
+
+<br>
+
+## **Version 1.24.3**
 - Adding support for supersets
 - Exercise history screen enhancements
 - Minor bug fixes and visual improvements
